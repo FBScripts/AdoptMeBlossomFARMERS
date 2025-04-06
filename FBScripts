@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PlsNoNoob/-/refs/heads/main/Autofarm%20ice%20gui"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FBScripts/Loader/refs/heads/main/2025',true))()
+
+-- Script ver 1.33 (@TvoyTwix)
